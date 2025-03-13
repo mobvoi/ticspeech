@@ -1,14 +1,3 @@
-This project ("ticspeech") is built on and with the aid of the following open source projects. Credits are given to these projects.This project ("ticspeech") is built on and with the aid of the following open source projects. Credits are given to these projects.
-
-Open Source Software Licensed under the GNU LESSER GENERAL PUBLIC LICENSE
-Version 2.1:
---------------------------------------------------------------------
-1. Kenlm
-Copyright (c) Kenneth Heafield <kheafield.com>
-Original source code of kenlm is available at https://kheafield.com/code/kenlm/
-Modification made of kenlm is available at  https://github.com/mobvoi/ticspeech
-
-
                   GNU LESSER GENERAL PUBLIC LICENSE
                        Version 2.1, February 1999
 
